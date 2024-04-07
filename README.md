@@ -8,3 +8,9 @@ Simply click on any of the options to visit my profiles on different social medi
 - Semantic HTML5 markup
 - CSS custom properties
 
+# Screenshot of my profile
+![socials](https://github.com/Diksha192001/social-links-profile/assets/75386004/d7d92c40-bbd9-4511-9d84-2b3034fe955c)
+
+# Deployement
+This Social Links Profile is also deployed on Github pages. Click on the following link to visit my page & share your feedbacks!
+https://diksha192001.github.io/social-links-profile/
